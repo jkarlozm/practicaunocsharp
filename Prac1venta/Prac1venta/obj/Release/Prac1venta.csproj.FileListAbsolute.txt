@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Prac1venta\bin\Release\Prac1venta.dll
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Prac1venta\bin\Release\Prac1venta.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Prac1venta\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Prac1venta\obj\Release\Prac1venta.dll
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Prac1venta\obj\Release\Prac1venta.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1venta\Prac1venta\bin\Release\Prac1venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1venta\Prac1venta\bin\Release\Prac1venta.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1venta\Prac1venta\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1venta\Prac1venta\obj\Release\Prac1venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1venta\Prac1venta\obj\Release\Prac1venta.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1venta\Prac1venta\bin\Release\Prac1venta.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1venta\Prac1venta\obj\Release\Prac1venta.dll
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1venta\Prac1venta\obj\Release\Prac1venta.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1venta\Prac1venta\bin\Release\Prac1venta.dll

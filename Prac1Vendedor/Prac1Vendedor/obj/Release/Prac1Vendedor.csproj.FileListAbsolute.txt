@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1Vendedor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1Vendedor.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\obj\Release\Prac1Vendedor.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\obj\Release\Prac1Vendedor.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1venta.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1venta.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1Vendedor.dll
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1Vendedor.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1venta.dll
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\bin\Release\Prac1venta.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\obj\Release\Prac1Vendedor.dll
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\obj\Release\Prac1Vendedor.pdb
+D:\Visal Studio\Programacion\1\Projects\P1\Prac1Vendedor\Prac1Vendedor\obj\Release\Prac1Vendedor.csprojResolveAssemblyReference.cache
